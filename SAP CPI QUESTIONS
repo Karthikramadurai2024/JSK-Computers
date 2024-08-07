@@ -1,0 +1,137 @@
+SAP CPI QUESTIONS
+General Questions:
+1.	What is ERP System?
+2.	What is SAP?
+3.	Difference between ERP and SAP.
+4.	What is ECC?
+5.	What is S4HANA?
+6.	Difference between ECC and S4HANA?
+7.	What is middleware? 
+8.	Why middleware is needed in business?
+9.	Difference between On-Premise and Cloud?
+10.	What is Cloud Computing
+11.	What is SaaS, IaaS, PaaS?
+12.	What are the advantages of Cloud?
+13.	What is XML?
+14.	What is XSD?
+15.	What is XSLT?
+16.	What is WSDL?
+17.	What is EDI?
+18.	What are the segments available in EDI data structure?
+19.	What is synchronous and asynchronous communication?
+
+SAP BTP Cockpit
+1.	What is BTP?
+2.	What is BTP Cockpit?
+3.	What are the Regions available in BTP?
+4.	What is IP Ranges?
+5.	What is Data Centre?
+6.	What is Roles and Role Collections?
+7.	How do you create a service key and what is the purpose of a service key?
+8.	What is Worker node and Tenant Node?
+9.	What is Cloud Foundry and Neo?
+CPI 
+1.	What is CPI?
+2.	What is Integration Suite?
+3.	Which role is required to transfer messages through CPI?
+4.	What is Package?
+5.	What is artifacts?
+6.	What is Integration Flow?
+7.	What is Discover in Integration suite?
+8.	What is Pallet?
+9.	What is Adapter?
+10.	What is the purpose of Sender and Receiver Adapter?
+11.	What are the events available in Integration Suite?
+12.	What is Timer?
+13.	What are the Processes available in Integration Suite?
+14.	What is Local and Exception sub process?
+15.	What is the difference between Escalation end event and Terminate event?
+16.	What is Message Mapping?
+17.	What are the Mapping Functions available in CPI?
+18.	All mapping functions
+19.	What is XSLT mapping?
+20.	What is the syntax in XSLT if a node needs to be rotated multiple times?
+21.	What is ID Mapping?
+22.	What is Content Modifier?
+23.	What is difference between Message Header and Exchange Property?
+24.	What are the Types can we use in a Content Modifier Message Body?
+25.	What are the converters available in Integration Suite?
+26.	What is the use cases of encoder and decoder?
+27.	What is the purpose of Encryptor and Decryptor?
+28.	What is PGP?
+29.	What is PKCS #7?
+30.	What is the contribution of Filter pallet in Integration Suite?
+31.	What is Message Digest used for?
+32.	What is the purpose of script in Integration Suite?
+33.	What are the scripting languages can be used in Integration Suite?
+34.	What is the difference between Local call and External Call?
+35.	What is Content Enricher?
+36.	Explain about Poll Enricher?
+37.	What is the difference between Request Reply and Send?
+38.	What are the Quality of Services provided by CPI?
+39.	Describe about the Router with an example?
+40.	What is Multicast?
+41.	What is the difference between sequential and parallel multicast?
+42.	What is the purpose of Aggregator and How it works?
+43.	What is Join and Gather?
+44.	What is the difference between Multicast and Join?
+45.	What is the different between General and Iterating Splitter?
+46.	What is the difference between Tar and Zip Splitter?
+47.	What is EDI Splitter?
+48.	Why we use Signer and Verifier and what is the difference between those two palettes?
+49.	What is persistence?
+50.	What is Data Store?
+51.	What are the operations we can perform with the Data Store?
+52.	What is Variables in Integration Suite?
+53.	What is the difference between local and global Variable?
+54.	How can you delete a Variable dynamically using your integration Flow?
+55.	What is EDI and XML Validator used for?
+56.	What is simulation?
+57.	How many pallets can be simulated at a time?
+58.	What are the thing we can’t simulate and Why?
+59.	What is Value Mapping?
+60.	What is Local and Global Resources or References?
+61.	What is the different between script and Script Collections?
+62.	What is Runtime Configurations in Integration Suite?
+63.	What is Externalized Parameters?
+64.	What is Namespace mapping? 
+65.	What is Allowed Headers and why it is needed?
+66.	If the sender system needs to know what the error occurs when they triggering the data how will you enable that in Integration Suite?
+67.	What is the advantages of the Versions in artifacts?
+68.	What is Deploy in Integration suite?
+69.	What is configuring parameters in Integration Suite?
+70.	How to Move an artifact from one environment to another environment?
+71.	What is Monitoring?
+72.	What is the difference between monitoring the Integration content and monitoring the Messages?
+73.	What is the difference between Security Materials and keystore?
+74.	What is PGP keys?
+75.	What is private key and what is public key?
+76.	What is Number Ranges?
+77.	What is JDBC Material?
+78.	What are the authentication methods available in CPI?
+79.	What is the usage of Connectivity Test?
+80.	Explain the configurations of Below adapters:
+1)	HTTPS
+2)	HTTP
+3)	SFTP
+4)	MAIL
+5)	JMS
+6)	JDBC
+7)	ODATA
+8)	SOAP
+9)	Process Direct
+10)	FTP
+11)	Data Store
+12)	IDOC
+13)	AMQP
+14)	Ariba
+15)	Open Connectors
+16)	XI
+Note : Each and every configuration should be learnt of the above adapters.
+ 
+Groovy Script	
+1.	Write a script to capture payload?
+2.	Syntax of capture a header or property as a variable.
+3.	Packages used to process XML and Json data.
+
+
