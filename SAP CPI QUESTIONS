@@ -110,7 +110,8 @@ CPI
 77.	What is JDBC Material?
 78.	What are the authentication methods available in CPI?
 79.	What is the usage of Connectivity Test?
-80.	Explain the configurations of Below adapters:
+80. What is the difference between Script and Script Collection?
+81.	Explain the configurations of Below adapters:
 1)	HTTPS
 2)	HTTP
 3)	SFTP
