@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+    
+    <!-- Define a parameter to hold the businessPartner value -->
+    <xsl:param name="Product"/>
+
+    <!-- Identity template to copy everything as-is by default -->
+    <xsl:template match="@*|node()">
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
+    <!-- Template to match the 'PlanningCustomer' field and replace its value -->
+    <xsl:template match="MaterialNumber">
+        <xsl:copy>
+            <xsl:value-of select="$Product"/>
+        </xsl:copy>
+    </xsl:template>
+
+</xsl:stylesheet>
